@@ -1,0 +1,30 @@
+
+body {
+    max-width: 50%;
+    margin:auto;
+
+}
+p {
+    font-size: 18px;
+    text-align: center;
+    
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    
+    width:500px;
+
+}
+.flex {
+    width:300px;
+  display:flex;
+  justify-content: space-between;
+  
+
+}
+button {
+    margin:20px 20px 0 0px;
+    font-size: 20px;
+    padding:10px 20px;
+}
